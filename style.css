@@ -753,7 +753,9 @@ div.tab button:hover {
 
 .page-link:hover,
 .page-link:focus {
-    color: #111 !important;
+    background-color: #000 !important;
+    color: #fff !important;
+    box-shadow: none;
 }
 
 .page-item{
